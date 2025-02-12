@@ -1,0 +1,7 @@
+to create go project ;
+go mod init PMSnoMongo
+
+to install external libraries go install command
+
+to install gin-gonic frame work
+ go install github.com/gin-gonic/gin@latest
