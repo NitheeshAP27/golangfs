@@ -1,0 +1,6 @@
+cars
+{id:"", number:"",model:"",class:""}
+
+examples:
+{id:'car1',  number:'ka100913', model:'zen', class:'smallcar'}
+{id:'car2',  number:'ka101724', model:'beatle', class:'hatchback'}

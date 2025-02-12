@@ -1,0 +1,11 @@
+try 
+$npm
+then run
+npm create vite@latest . -- -- template react
+
+
+run : npm install
+run : npm dev
+
+theory
+react js frameword for making ui 
